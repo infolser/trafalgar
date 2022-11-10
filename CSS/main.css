@@ -325,3 +325,28 @@
     
 
 /* /Customer Section */
+
+/* Services-vared (serva) */
+    .serva {
+        padding: 100px 50px;
+        text-align: center;
+    }
+    .serva-cards {
+        padding-top: 80px;
+    }
+    .serva-card {
+        width: 30%;
+        height: 400px;
+        background-color: #EBF0F4;
+        margin-right: 3%;
+        box-sizing: border-box;
+        border-radius: 20px;
+        float: left;
+        text-align: left;
+    }
+
+    .serva-card img {
+        width: 100%;
+    }
+
+/* /Services-vared (serva) */
